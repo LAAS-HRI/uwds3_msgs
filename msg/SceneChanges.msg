@@ -1,10 +1,7 @@
-# Changes definition
+# SceneChanges definition
 
-# The entities updates
+# The entities
 SceneNode[] nodes
 
-# The relations matrix updates
-RelationMatrix[] relations
-
-# The event updates
-TemporalRelation[] events
+# The events
+TemporalSituation[] events

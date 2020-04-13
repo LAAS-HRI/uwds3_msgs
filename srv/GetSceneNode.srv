@@ -1,6 +1,5 @@
-# GetEntity definition
+# GetSceneNode definition
 
-string world
 string node_id
 ---
 SceneNode node
