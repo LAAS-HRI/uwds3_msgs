@@ -1,6 +1,6 @@
 # TemporalSituation definition
 
-# TemporalRelationType definition:
+# TemporalSituationType definition:
 uint8 PREDICATE = 0
 uint8 CAPTION = 1
 

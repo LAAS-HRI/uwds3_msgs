@@ -1,8 +1,0 @@
-# GetTopology definition
-
----
-string[] worlds
-Client[] clients
-ClientInteraction[] client_interactions
-bool success
-string error

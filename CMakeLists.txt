@@ -53,8 +53,6 @@ add_message_files(
  FILES
  BoundingBox.msg
  Camera.msg
- Client.msg
- ClientInteraction.msg
  Features.msg
  FeaturesStamped.msg
  ListStamped.msg
@@ -66,22 +64,14 @@ add_message_files(
  SceneChangesStamped.msg
  SceneNode.msg
  SceneNodeArrayStamped.msg
- Status.msg
- TemporalRelation.msg
- WorldsChangesStamped.msg
+ TemporalSituation.msg
 )
 
 ## Generate services in the 'srv' folder
 add_service_files(
  FILES
- AdvertiseConnection.srv
- GetGeometricPerspective.srv
- GetGeometricScene.srv
  GetRelation.srv
  GetSceneNode.srv
- GetStatus.srv
- GetSymbolicScene.srv
- GetTopology.srv
  Query.srv
 )
 

@@ -1,6 +1,10 @@
 # Query definition
 
 string query
+bool is_located
+geometry_msgs/PoseStamped point_of_view
+bool use_target
+geometry_msgs/PointStamped target
 ---
 string[] response
 bool success

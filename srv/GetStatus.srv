@@ -1,6 +1,0 @@
-# GetStatus definition
-
----
-Status status
-bool success
-string error
