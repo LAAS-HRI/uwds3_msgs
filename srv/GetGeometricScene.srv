@@ -1,0 +1,8 @@
+# GetGeometricScene definition
+
+string world
+string[] entities_of_interest
+---
+SceneNode[] nodes
+bool success
+string error
