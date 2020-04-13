@@ -58,12 +58,9 @@ add_message_files(
  ListStamped.msg
  PrimitiveShape.msg
  Property.msg
- RelationMatrix.msg
- RelationMatrixArrayStamped.msg
  SceneChanges.msg
  SceneChangesStamped.msg
  SceneNode.msg
- SceneNodeArrayStamped.msg
  TemporalSituation.msg
 )
 
