@@ -12,6 +12,7 @@ uint8 MESH = 3
 # [x, y, z] for the MESH (represent the 3D bbox of the mesh)
 
 uint8 type # The type of shape
+string name # the name of the shape/link
 geometry_msgs/Pose pose # The relative pose from the entity
 float64[] dimensions # The dimensions of the shape
 std_msgs/ColorRGBA color # the dominant color of the shape

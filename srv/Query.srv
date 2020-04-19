@@ -6,6 +6,6 @@ geometry_msgs/PoseStamped point_of_view
 bool use_target
 geometry_msgs/PointStamped target
 ---
-string[] response
+SceneNode[] response
 bool success
 string error
