@@ -58,8 +58,8 @@ add_message_files(
  ListStamped.msg
  PrimitiveShape.msg
  Property.msg
- SceneChanges.msg
- SceneChangesStamped.msg
+ World.msg
+ WorldStamped.msg
  SceneNode.msg
  TemporalSituation.msg
 )
