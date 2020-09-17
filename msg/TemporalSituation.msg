@@ -7,6 +7,7 @@ uint8 ACTION = 2
 
 uint8 type
 string description
+string predicate
 string subject_id
 string object_id
 float64 confidence
