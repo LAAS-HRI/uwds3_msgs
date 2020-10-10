@@ -67,8 +67,7 @@ add_message_files(
 ## Generate services in the 'srv' folder
 add_service_files(
  FILES
- GetRelation.srv
- GetSceneNode.srv
+ GetPerspective.srv
  Query.srv
 )
 

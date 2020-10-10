@@ -1,7 +1,0 @@
-# GetSceneNode definition
-
-string node_id
----
-SceneNode node
-bool success
-string error
